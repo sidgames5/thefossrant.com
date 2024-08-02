@@ -25,7 +25,9 @@ body {
 }
 
 button {
-    padding: 10px 50px 10px 50px;
+    padding: 10px 0 10px 0;
+    margin: 1px 0 1px 0;
+    width: 166px;
     color: #1f1f1f;
     font-family: Cantarell, Ubuntu, "Trebuchet MS", Arial, sans-serif;
     background: #efefef;
